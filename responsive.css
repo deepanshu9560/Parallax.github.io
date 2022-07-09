@@ -76,6 +76,11 @@
         margin-top: 35vh;
     }
 }
+@media (max-width: 445px){
+    h1{
+        font-size: 32px;
+    }
+}
 
 @media (max-width: 390.4px){
    h1{
