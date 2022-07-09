@@ -29,8 +29,8 @@
     .main-wrapper .black-card.right{
         right: -226px;
     }
-    .parallax-main{
-        background-size: cover;
+.parallax-main {
+        background-size: auto;
     }
 }
 
